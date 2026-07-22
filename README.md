@@ -3,7 +3,7 @@
 This repository contains the project for the professional website of a tourism agency, located in Mendoza, Argentina.
 
 - Agency Owner: Daniel Aguado
-- Website Designer and Developer: [Emanuel Escudero](https://emanuelescudero.ar)
+- Website Designer and Developer: [Emanuel Escudero](https://portfolio-emanuelescuderodevgmailcoms-projects.vercel.app/)
 
 * Project status: In development.
 
@@ -11,9 +11,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Domaine:
+[url](https://yourtour.ar)
+
+
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
